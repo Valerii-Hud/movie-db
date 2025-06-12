@@ -1,10 +1,10 @@
 export const movieDB = {
   movies: [
-    'Логан',
-    'Лига справедливости',
-    'Ла-ла лэнд',
-    'Одержимость',
-    'Скотт Пилигрим против...',
+    'Logan',
+    'Justice League',
+    'La La Land',
+    'Whiplash',
+    'Scott Pilgrim vs. the World',
   ],
 };
 

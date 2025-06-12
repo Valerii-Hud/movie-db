@@ -1,13 +1,13 @@
-Задания на урок 11.06.2025:
+Tasks for the lesson on 11.06.2025:
 
-1. Удалить все рекламные блоки со страницы (правая часть сайта)
+1.  Remove all advertisement blocks from the page (right side of the website).
 
-2. Изменить жанр фильма, поменять "комедия" на "драма"
+2.  Change the movie genre — replace "comedy" with "drama".
 
-3. Изменить задний фон постера с фильмом на изображение "bg.jpg". Оно лежит в папке img.
-   Реализовать только при помощи JS
+3.  Change the background image of the movie poster to "bg.jpg". The image is located in the img folder.
+    Implement this using JavaScript only.
 
-4. Список фильмов на странице сформировать на основании данных из этого JS файла.
-   Отсортировать их по алфавиту
+4.  Generate the movie list on the page based on the data from this JavaScript file.
+    Sort the list in alphabetical order.
 
-5. Добавить нумерацию выведенных фильмов
+5.  Add numbering to the displayed movies.

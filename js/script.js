@@ -11,7 +11,7 @@ import {
 
 adv.forEach((item) => item.remove());
 
-genre.textContent = 'драма';
+genre.textContent = 'drama';
 
 poster.style.backgroundImage = posterBackgroundImage;
 
