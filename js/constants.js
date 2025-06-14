@@ -16,3 +16,7 @@ export const poster = document.querySelector('.promo__bg'),
 export const genre = poster.querySelector('.promo__genre');
 
 export const movieList = document.querySelector('.promo__interactive-list');
+
+export const addForm = document.querySelector('form.add'),
+  addInput = document.querySelector('.adding__input'),
+  checkbox = addForm.querySelector('[type="checkbox"]');
